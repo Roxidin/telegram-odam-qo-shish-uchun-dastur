@@ -1,0 +1,1 @@
+# telegram-odam-qo-shish-uchun-dastur
