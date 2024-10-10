@@ -1,0 +1,15 @@
+talaba_1['ism'] = 'qobil rasulov'
+talaba_1['kurs'] = 3
+talaba_1['yosh'] = 20
+print(talaba_1)
+print(f"Talaba, {talaba_1['ism'].title()}, {talaba_1['kurs']}-kurs")
+
+talaba_2['ism'] = 'roxiddin'
+talaba_2['kurs'] = 3
+talaba_2['yosh'] = 20
+print (talaba_2)
+
+
+
+talaba_2['kurs'] = 4 # 'kurs'ni 4 ga o`zgartiramiz
+print(f"Talaba {talaba_1['ism'].title()} {talaba_1['kurs']}-kurs")
